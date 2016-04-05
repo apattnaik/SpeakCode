@@ -16,10 +16,10 @@ And the resultant output would be-
 
 Public class Class1
 {
-     public static void main(String args[])
-        {
-                private String str1;
-                private int int1;
+public static void main(String args[])
+{
+private String str1;
+private int int1;
         }
 }
 
